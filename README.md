@@ -1,4 +1,4 @@
-# CS50AI
+# CS50AI-P0
 Degress <br>
 Write a program that determines how many “degrees of separation” apart two actors are. <br>
 
